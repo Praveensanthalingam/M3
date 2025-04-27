@@ -1,3 +1,4 @@
+NAME:PRAVEEN SANTHALINGAM M
 # EX-11-EMI-CALCULATOR
 
 ## AIM
@@ -16,8 +17,13 @@ To write a program to prepare EMI calculator using function without return type 
 ## PROGRAM
 
 
+![image](https://github.com/user-attachments/assets/b667dd41-e8e4-4eed-b305-4a926be40b6f)
+
 ## OUTPUT
 
+
+
+![image](https://github.com/user-attachments/assets/63abae63-0738-4c84-852f-80022dabe9a8)
 
 
 
@@ -44,9 +50,14 @@ To write a C program to generate the Fibonacci series for the value 6.
 
 ## PROGRAM
 
+
+![image](https://github.com/user-attachments/assets/2865868b-b8d1-4619-8c8a-d9136d11079a)
+
 ## OUTPUT
 
 
+
+![image](https://github.com/user-attachments/assets/a625463c-0898-4cf8-ac55-cc070d8bbe62)
 
 
 
@@ -72,10 +83,15 @@ To write a C program to read n elements as input and print the last element of t
 
 ## PROGRAM
 
+
+![image](https://github.com/user-attachments/assets/56dae421-94fa-4821-aabe-1ab9e5b08a0b)
+
 ## OUTPUT
 
 
 
+
+![image](https://github.com/user-attachments/assets/fbb5305e-0170-4e06-b4b1-1f6e9ec25ba3)
 
 
 
@@ -103,9 +119,16 @@ To write a C Program to count total number of positive elements in an array.
 ## PROGRAM
 
 
+![image](https://github.com/user-attachments/assets/b6461c01-3818-46e3-b58d-d36e14fda212)
+
+
+
+
 ## OUTPUT
 
 
+
+![image](https://github.com/user-attachments/assets/f396e0fc-3173-4614-bd11-9138080eed19)
 
 
 
@@ -138,8 +161,15 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 
 ## Program:
 
+
+![image](https://github.com/user-attachments/assets/a0f2fe5f-f679-4717-ac06-3eb39997e2e4)
+
 ## Output:
  
+
+
+![image](https://github.com/user-attachments/assets/146f9ded-7448-4234-b995-8571f92ddcb5)
+
 
 
 ## Result:
